@@ -1,0 +1,37 @@
+h1
+{
+    color: #b3b4f3;
+    text-align: center;
+}
+body
+{
+    background-color: #26415e;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+div
+{
+    padding: 20px;
+    width: 70%;
+    text-align: left;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background-color: #83a6ce;
+    border-radius: 15px;
+}
+button{
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: hwb(356 4% 7%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.sd
+{
+    margin: 10px;
+    padding: 10px
+}
